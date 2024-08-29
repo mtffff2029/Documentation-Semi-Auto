@@ -1,0 +1,91 @@
+DOCUMENTAÇÃO PARA CONFIGURAR SUA AUTOMAÇÃO
+
+—-----------------------
+
+PROMPT - FÓRMULA
+
+lookup('Tipos de História', 'Prompt')
+
+—-------------------
+
+CENAS PROMPT JSON - FÓRMULA
+
+lookup('Tipos de História', 'Cenas Prompts JSON')
+
+—-------------------------
+
+PREENCHER TABELAS
+
+Prompt 1: (Quero este texto inteiramente em (idioma). Leia o artigo abaixo.
+Deixe sempre os arrays que serão colocados no texto com o nome “texto”.
+Concentre-se 100% no que vou te perguntar agora: Criaremos um texto longo com mais de 20.000 caracteres. É por isso que quero que este texto seja o mais longo possível! Caso contrário, farei novamente até que o texto seja grande.
+
+Crie um texto longo completamente novo sobre o que Jesus diria sobre a nova doença mundial que surgiu em nosso mundo.
+
+Enviarei essa narração para o gerador de voz AI que será utilizado nas imagens.
+
+—---------
+
+Prompt 2: (Quero este texto inteiramente em (idioma). Leia o artigo abaixo.
+Deixe sempre os arrays que serão colocados no texto com o nome “texto”.
+Concentre-se 100% no que vou te perguntar agora: Criaremos um texto longo com mais de 20.000 caracteres. É por isso que quero que este texto seja o mais longo possível! Caso contrário, farei novamente até que o texto seja grande.
+
+Crie um texto longo completamente novo sobre o que Jesus diria sobre a nova doença que pode afetar a vida de nosso amigos e familiares.
+
+Enviarei essa narração para o gerador de voz AI que será utilizado nas imagens.
+—------------
+
+Prompt 3: (Quero este texto inteiramente em (idioma). Leia o artigo abaixo.
+Deixe sempre os arrays que serão colocados no texto com o nome “texto”.
+Concentre-se 100% no que vou te perguntar agora: Criaremos um texto longo com mais de 20.000 caracteres. É por isso que quero que este texto seja o mais longo possível! Caso contrário, farei novamente até que o texto seja grande.
+
+Você é autor de longos artigos de cunho religioso.
+Crie um texto longo completamente novo sobre o que Jesus diria sobre a nova doença mundial que surgiu em nosso mundo.
+
+Enviarei essa narração para o gerador de voz AI que será utilizado nas imagens.
+
+—------------
+
+Prompt 4: (Quero este texto inteiramente em (idioma). Leia o artigo abaixo.
+Deixe sempre os arrays que serão colocados no texto com o nome “texto”.
+Concentre-se 100% no que vou te perguntar agora: Criaremos um texto longo com mais de 20.000 caracteres. É por isso que quero que este texto seja o mais longo possível! Caso contrário, farei novamente até que o texto seja grande.
+
+Crie um texto longo completamente novo sobre o que Jesus diria sobre a nova doença mundial que surgiu em nosso mundo.
+
+Enviarei essa narração para o gerador de voz AI que será utilizado nas imagens.
+
+—-------------
+
+Prompt 5: (Quero este texto inteiramente em (idioma). Leia o artigo abaixo.
+Deixe sempre os arrays que serão colocados no texto com o nome “texto”.
+Concentre-se 100% no que vou te perguntar agora: Criaremos um texto longo com mais de 20.000 caracteres. É por isso que quero que este texto seja o mais longo possível! Caso contrário, farei novamente até que o texto seja grande.
+
+Crie um texto longo completamente novo sobre o que Jesus diria sobre a nova doença mundial que surgiu em nosso mundo.
+
+Enviarei essa narração para o gerador de voz AI que será utilizado nas imagens.
+
+—--------------
+
+Prompt 6: (Quero este texto inteiramente em (idioma). Leia o artigo abaixo.
+Deixe sempre os arrays que serão colocados no texto com o nome “texto”.
+Concentre-se 100% no que vou te perguntar agora: Criaremos um texto longo com mais de 20.000 caracteres. É por isso que quero que este texto seja o mais longo possível! Caso contrário, farei novamente até que o texto seja grande.
+
+Crie um texto longo completamente novo sobre o que Jesus diria sobre a nova doença mundial que surgiu em nosso mundo.
+
+Enviarei essa narração para o gerador de voz AI que será utilizado nas imagens.
+
+Por fim, peça ao espectador que tome medidas para aproveitar os vídeos postados aqui e compartilhados publicamente.
+
+—--------------
+
+CENAS PROMPT JSON
+
+Preciso exatamente de 30 cenas. Por favor não faça mais que 30 cenas e não faça menos de 25 cenas. Eu tenho uma história para a qual preciso gerar prompts para geração de imagens com IA. Cada prompt deve ser projetado como uma ilustração realista e vívida. Os prompts devem incluir uma descrição geral, ações dos personagem principal que é Jesus, aparência do personagem sempre muito parecida com a realidade e o cenário/fundo, adaptados a cada sentença do artigo.
+
+Por favor, formate os resultados como um objeto JSON contendo um array chamado "pairs". Cada objeto dentro do array deve ter duas chaves: "original", com a sentença original da história, e "aiImagePrompts", que contém um array de três strings. Cada string deve ser um prompt detalhado para gerar uma imagem no estilo do artigo, focando no conteúdo narrativo da sentença correspondente.
+
+Diretrizes para os prompts:
+
+Declaração de Estilo de artigos: Comece cada prompt com "Crie uma ilustração realista e vívida do artigo de..." Descrição dos Personagens e Ações: Descreva claramente os personagens e suas ações conforme retratados na cena. Cenário/Fundo: Inclua detalhes do ambiente ou fundo onde a ação ocorre. Humor e Tema: Reflita o humor e os elementos temáticos da sentença nos detalhes da ilustração. Elementos Visuais: Incorpore elementos visuais específicos que devem ser destacados, como tecnologia, emoções específicas ou características ambientais únicas. O objetivo é receber prompts criativos e envolventes que inspirem ilustrações detalhadas e vivas, encapsulando a essência da história através da lente da arte dos artigos do cristianismo.
+
+Aqui está a história que quero usar:
