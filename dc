@@ -32,6 +32,29 @@ lookup('Histórias', 'Roteiro remodelado')
 
 ---------------------------
 
+Largura Output
+
+lookup('Tipos de História', 'Largura Output')
+
+----------------------------
+
+Altura Output
+
+lookup('Tipos de História', 'Altura Output')
+
+---------------------------
+
+Largura Imagem
+
+lookup('Tipos de História', 'Largura Imagem')
+
+---------------------------
+
+Altura Imagem
+
+lookup('Tipos de História', 'Altura Imagem')
+
+----------------------------
 
 PREENCHER TABELAS
 
