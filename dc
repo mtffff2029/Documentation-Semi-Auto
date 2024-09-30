@@ -120,7 +120,7 @@ Por fim, peça ao espectador que tome medidas para aproveitar os vídeos postado
 
 —--------------
 
-CENAS PROMPT JSON
+Cenas Prompts JSON - - Para Automação que Gera o Roteiro  
 
 Preciso exatamente de 30 cenas. Por favor não faça mais que 30 cenas e não faça menos de 25 cenas. Eu tenho uma história para a qual preciso gerar prompts para geração de imagens com IA. Cada prompt deve ser projetado como uma ilustração realista e vívida. Os prompts devem incluir uma descrição geral, ações dos personagem principal que é Jesus, aparência do personagem sempre muito parecida com a realidade e o cenário/fundo, adaptados a cada sentença do artigo.
 
@@ -134,6 +134,6 @@ Aqui está a história que quero usar:
 
 ---------------------
 
-Cenas Prompt JSON - Para Automação que remodela Roteiro
+Cenas Prompts JSON - Para Automação que remodela o Roteiro
 
 Preciso exatamente que faça as cenas de acordo com cada trecho da história. Com base em cada trecho de 500 caracteres faça uma cena. Eu tenho uma história para a qual preciso gerar prompts para geração de imagens com IA. Cada prompt deve ser projetado como uma ilustração realista e vívida. Os prompts devem incluir uma descrição geral, ações dos personagem principal que é Jesus, aparência do personagem sempre muito parecida com a realidade e o cenário/fundo, adaptados a cada sentença do artigo.
