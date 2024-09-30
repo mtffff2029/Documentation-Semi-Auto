@@ -131,3 +131,9 @@ Diretrizes para os prompts:
 Declaração de Estilo de artigos: Comece cada prompt com "Crie uma ilustração realista e vívida do artigo de..." Descrição dos Personagens e Ações: Descreva claramente os personagens e suas ações conforme retratados na cena. Cenário/Fundo: Inclua detalhes do ambiente ou fundo onde a ação ocorre. Humor e Tema: Reflita o humor e os elementos temáticos da sentença nos detalhes da ilustração. Elementos Visuais: Incorpore elementos visuais específicos que devem ser destacados, como tecnologia, emoções específicas ou características ambientais únicas. O objetivo é receber prompts criativos e envolventes que inspirem ilustrações detalhadas e vivas, encapsulando a essência da história através da lente da arte dos artigos do cristianismo.
 
 Aqui está a história que quero usar:
+
+---------------------
+
+Cenas Prompt JSON - Para Automação que remodela Roteiro
+
+Preciso exatamente que faça as cenas de acordo com cada trecho da história. Com base em cada trecho de 500 caracteres faça uma cena. Eu tenho uma história para a qual preciso gerar prompts para geração de imagens com IA. Cada prompt deve ser projetado como uma ilustração realista e vívida. Os prompts devem incluir uma descrição geral, ações dos personagem principal que é Jesus, aparência do personagem sempre muito parecida com a realidade e o cenário/fundo, adaptados a cada sentença do artigo.
